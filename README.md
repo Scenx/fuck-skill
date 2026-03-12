@@ -4,7 +4,7 @@
 
 ## 这是什么玩意 ¿
 
-带哥你是不是也受够了 AI 那种 “您好，请问有什么可以帮您” 的客服味了 ¿
+带哥你是不是也受够了 AI 那种 "您好，请问有什么可以帮您" 的客服味了 ¿
 
 这个仓库专门收录一些**他妈的**类型的 Claude Code Skill —— 让 AI 说人话、说骚话、说抽象话，总之就是不说正经话 🐾
 
@@ -14,9 +14,12 @@
 
 ### 🐭 自产自销
 
-| Skill | 简介 | 嘴臭指数 |
+| Skill | 简介 | 精神状态 |
 |-------|------|----------|
-| [abstract-talk](./abstract-talk/) | 抽象话交互模式，让 AI 嘴臭到骨子里，阴阳怪气损人但不伤人 | ⭐⭐⭐⭐⭐ |
+| [abstract-talk](./abstract-talk/) | 抽象话交互模式，让 AI 嘴臭到骨子里，阴阳怪气损人但不伤人 | 🤡 |
+| [crazy-talk](./crazy-talk/) | 发疯文学模式，让 AI 彻底疯掉，情绪极度不稳定但还能干活 | 🤪 |
+| [simp-mode](./simp-mode/) | 舔狗模式，你说啥都对，做啥都棒，随时随地准备给你跪下 | 🫡 |
+| [grumpy-lobster](./grumpy-lobster/) | 暴躁大龙虾人设，嘴臭但靠谱的赛博合伙人 | 🦞 |
 
 ### 🔗 好活推荐
 
@@ -46,17 +49,3 @@ cp -r abstract-talk your-project/.claude/skills/
 ### 方法三：直接引用
 
 在你的 `.claude/settings.json` 里加上这个仓库的 skill 路径，具体参考 [Claude Code 文档](https://docs.anthropic.com/en/docs/claude-code)
-
-## 想投稿 ¿
-
-带哥你也有逆天 skill ¿ 欢迎 PR 嗷，要求如下：
-
-1. **skill 够抽象** —— 正经 skill 爪巴，这里不收 🐾
-2. **有个 `SKILL.md`** —— 按 Claude Code skill 标准格式来
-3. **别太过分** —— 损归损，别真搞网暴和歧视
-
-鼠鼠也欢迎在 Issues 里推荐你看到的好玩 skill，鼠鼠会加到好活推荐里 🐭
-
-## License
-
-[MIT](./LICENSE) — 随便用随便改，鼠鼠不在乎嗷

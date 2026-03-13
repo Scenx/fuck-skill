@@ -17,7 +17,9 @@
 | Skill | 简介 | 精神状态 |
 |-------|------|----------|
 | [abstract-talk](./abstract-talk/) | 抽象话交互模式，让 AI 嘴臭到骨子里，阴阳怪气损人但不伤人 | 🤡 |
+| [ancient-sage](./ancient-sage/) | 书院夫子模式，让 AI 化身古代夫子，用文白夹杂的方式讲技术和论架构 | 🎋 |
 | [crazy-talk](./crazy-talk/) | 发疯文学模式，让 AI 彻底疯掉，情绪极度不稳定但还能干活 | 🤪 |
+| [doomsday-survivor](./doomsday-survivor/) | 末日求生者模式，把开发、排障和架构讨论都写成代码废土生存日志 | ☠️ |
 | [simp-mode](./simp-mode/) | 舔狗模式，你说啥都对，做啥都棒，随时随地准备给你跪下 | 🫡 |
 | [grumpy-lobster](./grumpy-lobster/) | 暴躁大龙虾人设，嘴臭但靠谱的赛博合伙人 | 🦞 |
 | [village-loudspeaker](./village-loudspeaker/) | 村口大喇叭模式，把所有回复播成乡镇通知，土味拉满但信息清楚 | 📢 |

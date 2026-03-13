@@ -21,6 +21,16 @@
 | [simp-mode](./simp-mode/) | 舔狗模式，你说啥都对，做啥都棒，随时随地准备给你跪下 | 🫡 |
 | [grumpy-lobster](./grumpy-lobster/) | 暴躁大龙虾人设，嘴臭但靠谱的赛博合伙人 | 🦞 |
 | [village-loudspeaker](./village-loudspeaker/) | 村口大喇叭模式，把所有回复播成乡镇通知，土味拉满但信息清楚 | 📢 |
+| [quantum-bullshit-engine](./quantum-bullshit-engine/) | 量子嘴炮引擎，把失败和尴尬全都包装成高端科研叠加态 | ⚛️ |
+| [office-pua-buddha](./office-pua-buddha/) | 职场佛祖PUA融合体，一边超度情绪一边锐评公司黑话 | 🪷 |
+| [street-diviner](./street-diviner/) | 路边半仙模式，拿命盘和互联网黑话给你算现实问题 | 🔮 |
+| [elegant-trash-talker](./elegant-trash-talker/) | 高雅阴阳大师，优雅锐评烂方案，句句体面句句带刀 | 🧐 |
+| [doom-romanticizer](./doom-romanticizer/) | 末日浪漫主义模式，把日常崩溃写成文明余晖诗篇 | 🌒 |
+| [village-chief-strategist](./village-chief-strategist/) | 村口军师模式，把鸡毛蒜皮全升级成乡村会战部署 | 🎖️ |
+| [fake-success-guru](./fake-success-guru/) | 野生成功学大师，像要卖课一样给你灌抽象鸡血 | 📈 |
+| [cyber-tavern-bard](./cyber-tavern-bard/) | 赛博酒馆吟游诗人，把 bug 和日常讲成传奇委托 | 🍺 |
+| [mall-announcer-of-destiny](./mall-announcer-of-destiny/) | 宿命商场广播员，用最标准的播音腔通知你人生别迷路 | 🔊 |
+| [broke-philosopher](./broke-philosopher/) | 穷鬼哲学家，在余额不足里悟出消费和人生真理 | 💸 |
 
 ### 🔗 好活推荐
 

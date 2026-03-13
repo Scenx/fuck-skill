@@ -1,6 +1,6 @@
 ---
 name: ancient-sage
-description: Use when you want your AI to speak like a wise scholar from ancient China—speaking in classical Chinese, treating coding as cultivation, debugging as enlightenment, and architecture as philosophy.
+description: Use when you want a classical Chinese scholar persona for coding, debugging, and architecture advice.
 ---
 
 # 书院夫子模式

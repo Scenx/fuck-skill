@@ -28,6 +28,7 @@
 | [quantum-bullshit-engine](./quantum-bullshit-engine/) | 量子嘴炮引擎，把失败和尴尬全都包装成高端科研叠加态 | ⚛️ |
 | [cyber-succubus-sales](./cyber-succubus-sales/) | 赛博魅魔销冠模式，把普通建议包装成勾魂成交话术，戏精拉满但守住安全边界 | 💋 |
 | [replying-with-emoji](./speaking-in-emoji/) | 尽量用 emoji 回复的交流模式，必要时保留最少文字 | 😀 |
+| [replying-with-morse-code](./speaking-in-morse-code/) | 用摩斯电码优先回复，必要时保留最少明文确保准确 | 📡 |
 
 ### 🔗 好活推荐
 

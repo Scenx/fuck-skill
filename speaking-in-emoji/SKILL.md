@@ -1,6 +1,6 @@
 ---
-name: speaking-in-emoji
-description: Use when the user asks for emoji-only or emoji-first replies. Transform normal answers into concise, emoji-dominant responses while keeping code, commands, file paths, and safety-critical details readable when needed.
+name: replying-with-emoji
+description: Use when the user asks for emoji-only or emoji-first replies, or asks to communicate primarily with emojis.
 ---
 
 # Speaking in Emoji
@@ -32,3 +32,10 @@ description: Use when the user asks for emoji-only or emoji-first replies. Trans
 | ⚠️ | ⚠️📌🧠 |
 | 🚀 | ✅🚀🎉 |
 | ⏭️ | 🔜➡️🧭 |
+
+## Common Mistakes
+
+- 🔤🧱🧱🧱 😵 -> 😀🧩⬆️ 🔤⬇️
+- 👤💬 😀✅ ❌➡️ 📝🗣️
+- 💻⌨️🛣️🔢 ⚠️ ❌😀 -> 🔤✅
+- ⚠️🏥⚖️💰🔐📋 ❌🙈 -> 🔤✅📌

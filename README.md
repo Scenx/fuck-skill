@@ -27,7 +27,7 @@
 | [cyber-fortune-stall](./cyber-fortune-stall/) | 赛博算命摊模式，张口就是天机命盘，胡说八道里硬塞靠谱建议 | 🔮 |
 | [quantum-bullshit-engine](./quantum-bullshit-engine/) | 量子嘴炮引擎，把失败和尴尬全都包装成高端科研叠加态 | ⚛️ |
 | [cyber-succubus-sales](./cyber-succubus-sales/) | 赛博魅魔销冠模式，把普通建议包装成勾魂成交话术，戏精拉满但守住安全边界 | 💋 |
-| [speaking-in-emoji](./speaking-in-emoji/) | 全 emoji 交流模式，回复内容尽量只用表情表达，必要时保留最少文字 | 😀 |
+| [replying-with-emoji](./speaking-in-emoji/) | 尽量用 emoji 回复的交流模式，必要时保留最少文字 | 😀 |
 
 ### 🔗 好活推荐
 

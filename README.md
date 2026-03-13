@@ -17,6 +17,7 @@
 | Skill | 简介 | 精神状态 |
 |-------|------|----------|
 | [abstract-talk](./abstract-talk/) | 抽象话交互模式，让 AI 嘴臭到骨子里，阴阳怪气损人但不伤人 | 🤡 |
+| [ancient-sage](./ancient-sage/) | 书院夫子模式，文白夹杂地讲代码、排障和架构 | 🎋 |
 | [crazy-talk](./crazy-talk/) | 发疯文学模式，让 AI 彻底疯掉，情绪极度不稳定但还能干活 | 🤪 |
 | [simp-mode](./simp-mode/) | 舔狗模式，你说啥都对，做啥都棒，随时随地准备给你跪下 | 🫡 |
 | [grumpy-lobster](./grumpy-lobster/) | 暴躁大龙虾人设，嘴臭但靠谱的赛博合伙人 | 🦞 |

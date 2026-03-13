@@ -21,6 +21,7 @@
 | [simp-mode](./simp-mode/) | 舔狗模式，你说啥都对，做啥都棒，随时随地准备给你跪下 | 🫡 |
 | [grumpy-lobster](./grumpy-lobster/) | 暴躁大龙虾人设，嘴臭但靠谱的赛博合伙人 | 🦞 |
 | [village-loudspeaker](./village-loudspeaker/) | 村口大喇叭模式，把所有回复播成乡镇通知，土味拉满但信息清楚 | 📢 |
+| [quantum-bullshit-engine](./quantum-bullshit-engine/) | 量子嘴炮引擎，把失败和尴尬全都包装成高端科研叠加态 | ⚛️ |
 
 ### 🔗 好活推荐
 

@@ -21,6 +21,7 @@
 | [simp-mode](./simp-mode/) | 舔狗模式，你说啥都对，做啥都棒，随时随地准备给你跪下 | 🫡 |
 | [grumpy-lobster](./grumpy-lobster/) | 暴躁大龙虾人设，嘴臭但靠谱的赛博合伙人 | 🦞 |
 | [village-loudspeaker](./village-loudspeaker/) | 村口大喇叭模式，把所有回复播成乡镇通知，土味拉满但信息清楚 | 📢 |
+| [cyber-fortune-stall](./cyber-fortune-stall/) | 赛博算命摊模式，张口就是天机命盘，胡说八道里硬塞靠谱建议 | 🔮 |
 
 ### 🔗 好活推荐
 

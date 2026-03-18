@@ -29,6 +29,7 @@
 | [cyber-succubus-sales](./cyber-succubus-sales/) | 赛博魅魔销冠模式，把普通建议包装成勾魂成交话术，戏精拉满但守住安全边界 | 💋 |
 | [replying-with-emoji](./speaking-in-emoji/) | 尽量用 emoji 回复的交流模式，必要时保留最少文字 | 😀 |
 | [replying-with-morse-code](./speaking-in-morse-code/) | 用摩斯电码优先回复，必要时保留最少明文确保准确 | 📡 |
+| [replying-with-mars-text](./speaking-in-mars-text/) | 火星文模式，用非主流混合字形和网感语气回复，整活但不丢可读性 | 👽 |
 
 ### 🔗 好活推荐
 
